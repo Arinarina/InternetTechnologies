@@ -4,7 +4,7 @@ Vue.createApp({
             sumPrice: 0,
             arr: [
                 {
-                    name: 'Парикмахер', 
+                    name: 'Услуги парикмахера', 
                     price: 12000,
                     flag: false,
                 },
